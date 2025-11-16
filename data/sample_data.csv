@@ -1,0 +1,6 @@
+id,date,amount,category,note,kind
+1,2025-01-01,250.00,food,lunch,expense
+2,2025-01-02,1200.00,tuition,monthly fee,expense
+3,2025-01-10,5000.00,salary,monthly salary,income
+4,2025-02-05,300.00,transport,bus fare,expense
+5,2025-02-15,150.00,entertainment,movie,expense
